@@ -1,10 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom'
+import ReactDOM from 'react-dom/client'
 
 class PlaceList extends React.Component {
     render() {
       return (
-        <p> Generate List Here </p>
+        <div> Generate List Here </div>
       );
     }
   }
